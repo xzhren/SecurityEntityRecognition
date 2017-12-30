@@ -19,6 +19,8 @@ Dynamic Bi-GRU for Security Entity & Relation Recognition
 
 - Computer Graph
 ![](./images/computer_graph.png)
+
 - Acc & Loss
+
 ![](./images/acc.png)
 ![](./images/loss.png)
