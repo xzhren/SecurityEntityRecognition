@@ -2,6 +2,13 @@
 
 Dynamic Bi-GRU for Security Entity & Relation Recognition
 
+## Requirements
+
+- python >= 3.x
+- jupyter >= 1.0.0
+- tensorflow >= 1.4.0
+- tensorflow-tensorboard >= 0.4.0
+
 ## Files Introduction
 
 1. scrapy_zerodayinitiative.py
