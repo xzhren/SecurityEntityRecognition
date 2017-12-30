@@ -1,5 +1,7 @@
 # SecurityEntityRecognition
 
+Dynamic Bi-GRU for Security Entity & Relation Recognition
+
 ## Files Introduction
 
 1. scrapy_zerodayinitiative.py
@@ -12,3 +14,11 @@
   - label data, encoding data, padding
 4. html2tf
   - bi-GRU 99.8584
+
+## Result
+
+- Computer Graph
+![](./images/computer_graph.png)
+- Acc & Loss
+![](./images/acc.png)
+![](./images/loss.png)
